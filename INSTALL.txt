@@ -1,0 +1,43 @@
+1. Pre-conditions
+
+The application has been compiled and tested with JDK-9 on Intellij.
+
+The application has been tested on a PC with a RAM of 8 GB.
+
+No other specific hardware peripherals or software is required.
+
+The application only supports encoding of grayscale images upto 100 frames.
+
+
+2. Supporting files
+
+For the Java PC application, no non-standard libraries have been used.
+
+The application has been tested on a sequence of images sampled from a video. These images are stored in src/Images folder of the project and can be used to test the application. 
+To encode your own sequence of images, please delete the exisiting images in src/Images of the project and transfer your images to this folder. 
+
+
+3. Execution
+
+	a. Clone the project from Bitbucket.
+	   https://rdarbha@agile.bu.edu/bitbucket/scm/ec504-pr/ec504projectgroup13.git
+
+	b. Open the VideoEncoder project in Intellij.
+	
+	c. Store the images to be encoded in 'src/Images' of the project.
+	
+	d. Set the epsilon in VideoEncoderMain class to a suitable value. High epsilon value yields poorer quality video with better compression as compared to a low epsilon value.
+	
+	d. Click on Run and then Edit Configurations.
+	
+	e. Select VideoEncoderMain as the Main class. Make sure to select JDK-9 under JRE field.
+	
+	f. Provide program arguments as given below and then click on OK.
+		i. 	To encode the images :
+				encode [file1] [file2] [file3] ... [filen] --output [outputfile], where number of files is less than or equal to 100.
+		ii.	To video the video :
+				view [outputfile]
+	
+	g. Now click on Run and then Run 'VideoEncoderMain' to run the application.
+	
+	h. Based on the Program arguments, the application will either encode the set of input images to an output file or view the encoded video file in a viewer.

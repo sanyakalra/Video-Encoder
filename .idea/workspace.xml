@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f346cfe-fd41-488e-8dbf-de2f2be5f272" name="Default" comment="Added Command line">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage021.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage030.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage032.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage033.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage034.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage039.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage042.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage044.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage045.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage046.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage047.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage048.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage049.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage050.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage051.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage052.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage053.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage054.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage056.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage057.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage059.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage060.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage061.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage062.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage063.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage064.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage065.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage066.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage067.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage068.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage069.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage070.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage071.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage072.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage073.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage074.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage076.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage077.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage078.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage079.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage080.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage081.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage082.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage083.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage084.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage085.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage087.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage088.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage089.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage090.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage091.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage092.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage093.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage094.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage095.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage096.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage097.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage098.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage099.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VideoEncoder/cvideo.sar" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage000.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage000.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage001.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage001.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage002.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage002.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage003.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage003.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage004.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage004.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage005.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage005.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage006.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage006.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage007.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage007.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage008.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage008.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage009.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage009.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage010.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage010.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage011.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage011.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage012.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage012.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage013.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage013.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage014.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage014.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage015.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage015.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage016.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage016.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage017.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage017.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage018.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage018.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage019.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage019.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage020.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage020.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage021.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage021.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage022.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage022.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage023.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage023.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage024.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage024.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage025.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage025.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage026.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage026.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage027.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage027.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage028.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage028.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage029.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage029.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage030.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage030.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage031.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage031.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage032.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage032.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage033.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage033.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage034.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage034.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage035.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage035.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage036.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage036.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage037.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage037.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage038.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage038.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage039.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage039.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage040.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage040.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage041.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage041.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage042.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage042.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage043.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage043.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage044.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage044.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage045.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage045.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage046.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage046.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage047.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage047.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage048.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage048.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage049.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage049.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage050.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage050.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage051.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage051.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage052.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage052.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage053.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage053.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage054.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage054.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage055.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage055.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage056.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage056.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage057.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage057.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage058.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage058.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage059.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage059.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage060.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage060.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage061.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage061.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage062.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage062.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage063.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage063.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage064.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage064.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage065.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage065.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage066.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage066.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage067.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage067.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage068.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage068.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage069.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage069.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage070.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage070.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage071.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage071.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage072.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage072.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage073.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage073.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage074.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage074.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage075.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage075.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage076.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage076.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage077.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage077.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage078.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage078.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage079.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage079.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage080.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage080.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage081.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage081.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage082.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage082.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage083.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage083.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage084.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage084.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage085.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage085.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage086.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage086.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage087.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage087.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage088.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage088.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage089.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage089.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage090.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage090.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage091.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage091.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage092.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage092.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage093.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage093.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage094.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage094.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage095.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage095.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage096.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage096.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage097.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage097.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage098.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage098.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VideoEncoder/Images/dimage099.jpg" afterPath="$PROJECT_DIR$/VideoEncoder/src/Images/dimage099.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VideoEncoder/src/VideoEncoderMain.java" afterPath="$PROJECT_DIR$/VideoEncoder/src/VideoEncoderMain.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="VFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoEncoderMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VideoEncoderMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VideoPlayer/src/VideoPlayer.java" />
+        <option value="$PROJECT_DIR$/VideoPlayer/src/VideoEncoderMain.java" />
+        <option value="$PROJECT_DIR$/VideoEncoder/src/VideoEncoderMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ec504projectgroup13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec504projectgroup13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ec504projectgroup13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec504projectgroup13" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoEncoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ec504projectgroup13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec504projectgroup13" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoEncoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ec504projectgroup13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec504projectgroup13" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoEncoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sanya\Desktop\EC 504 ADS\ec504projectgroup13\VideoEncoder\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Systems Engineering\EC 504\ec504projectgroup13\VideoPlayer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f346cfe-fd41-488e-8dbf-de2f2be5f272" name="Default" comment="" />
+      <created>1509460854122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509460854122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Command line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Command line" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoEncoderMain.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoEncoderMain.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoEncoderMain.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/out/production/EC504_Project/VideoEncoderMain.class" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/VideoPlayer/src/VideoEncoderMain.java" />
+    <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VSegment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#5482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoEncoder/src/VideoEncoderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ec504projectgroup13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
